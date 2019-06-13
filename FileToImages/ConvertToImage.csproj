@@ -38,8 +38,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\DLL\Aspose.Slides.dll</HintPath>
     </Reference>
-    <Reference Include="Aspose.Words">
-      <HintPath>C:\Users\yan.zhu\Downloads\Aspose.Words\X86\10.7.0.0\Aspose.Words.dll</HintPath>
+    <Reference Include="Aspose.Words, Version=10.7.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DLL\ASPOSEdll\Aspose.Words.dll</HintPath>
     </Reference>
     <Reference Include="Spire.Common, Version=2.6.1.6040, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
       <HintPath>..\packages\Spire.XLS.9.6.1\lib\net40\Spire.Common.dll</HintPath>
